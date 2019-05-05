@@ -1,0 +1,28 @@
+$primary-color:                       #3498db;
+$secondary-color:                     #34495e;
+$font-family-base:                    "Nunito", sans-serif;
+
+$spacer:                              1rem;
+
+$theme-colors: (
+        "primary":                        $primary-color,
+        "secondary":                      $secondary-color,
+);
+
+$preloader-overlay-color:             #fff5;
+$preloader-cube-color:                $primary-color;
+
+$border-radius:                       0;
+$btn-border-radius:                   0;
+$card-border-width:                   0;
+
+$navbar-nav-link-padding-x:           1em;
+$navbar-padding-y:                    0;
+$navbar-padding-x:                    0;
+$navbar-dark-toggler-border-color:    transparent;
+$navbar-light-toggler-border-color:   transparent;
+
+$breadcrumb-bg:                       #f7f7f7;
+$card-bg:                             #f7f7f7;
+
+$breadcrumb-border-radius:            $border-radius;
